@@ -1,4 +1,4 @@
-EXAMPLE REACT APP called FLASHCARDS
+EXAMPLE REACT APP called FLASHBACK
 
 Interactive Flashcard app using javascript and ReactJS 
 
