@@ -1,6 +1,6 @@
 EXAMPLE REACT APP called FLASHBACK
 
-Interactive Flashcard app using javascript and ReactJS 
+Interactive Flashcard app using Javascript and ReactJS 
 
 This is a guided application built to render flashcards in React. It was built as a school project to become familiar with the syntax in React
   and to solidify JS and React knowledge.
